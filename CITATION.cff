@@ -1,8 +1,23 @@
-@misc{khan2026federated,
-  title={Federated Learning for Privacy-Preserving ECG Arrhythmia Classification under Non-IID Data Distributions: A Preliminary Study},
-  author={Khan, Sultan Ali},
-  year={2026},
-  howpublished={Zenodo preprint},
-  doi={10.5281/zenodo.XXXXXXX},
-  url={https://doi.org/10.5281/zenodo.XXXXXXX}
-}
+cff-version: 1.2.0
+message: "If you use this code or paper in your research, please cite it as below."
+title: "Federated Learning for Privacy-Preserving ECG Arrhythmia Classification under Non-IID Data Distributions: A Preliminary Study"
+abstract: "This paper presents a preliminary empirical study of Federated Learning for ECG arrhythmia classification under non-IID data distributions using the MIT-BIH Arrhythmia Database."
+authors:
+  - family-names: "Khan"
+    given-names: "Sultan Ali"
+    email: "sultanalikhan0344@gmail.com"
+year: 2026
+month: 10
+day: 7
+version: "1.0.0"
+license: MIT
+type: software
+repository-code: "https://github.com/sultanalikhan7543/federated-ecg-research"
+doi: "10.5281/zenodo.23215743"
+keywords:
+  - federated learning
+  - ECG arrhythmia classification
+  - non-IID data
+  - privacy-preserving healthcare
+  - Dirichlet partitioning
+  - FedProx
