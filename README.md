@@ -2,7 +2,7 @@
 
 **Author:** Sultan Ali Khan  
 **Email:** sultanalikhan0344@gmail.com  
-**Paper (Zenodo DOI):** [10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX)  
+**Paper (Zenodo DOI):** [10.5281/zenodo.23215743](https://doi.org/10.5281/zenodo.23215743)
 **Paper PDF:** [`paper/Federated_ECG_Arrhythmia_SultanAliKhan.pdf`](paper/Federated_ECG_Arrhythmia_SultanAliKhan.pdf)
 
 ---
